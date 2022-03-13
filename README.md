@@ -3,4 +3,4 @@ I also know about OOP and HTML, CSS, a little JS, since at the beginning I was t
 But now I'd rather focus on ML and AI, I studied marketing so I know about statistics. And I like data analysis since I've done some financial analysis.
 Although I don't really know about frameworks, I know about Django, just the basics, and SQL as well. 
 I'll keep on learning as I've been doing ever since the pandemic started.
-My email is mz25cont@hotmail.com and Telegram is @Marv_10
+Telegram is @Marv_10
