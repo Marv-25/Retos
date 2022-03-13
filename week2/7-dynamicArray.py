@@ -1,0 +1,3 @@
+
+arr = []
+lastAnswer = 0
